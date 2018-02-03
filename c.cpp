@@ -2,6 +2,8 @@
 #include<stack>
 using namespace std;
 
+
+// use some comments 
 stack <int> s;
 class list
 {
@@ -20,6 +22,8 @@ class list
        int middle();
 };
 
+
+// what is NULL pointer
 list::list(){
     start=NULL;
 }
